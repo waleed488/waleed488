@@ -10,7 +10,7 @@ Here is a quick look at what I do:
 - 🌱 **I’m currently learning & applying:** Advanced machine learning algorithms (like Q-learning) and integrating them with modern web applications.
 - 👯 **I’m looking to collaborate on:** Open-source frontend projects, mobile apps, or creative UI tools like dynamic template selectors.
 - 💬 **Ask me about:** MERN stack development, Flutter layouts, responsive UI/UX design, or freelance web development.
-- 📫 **How to reach me:** [Insert your Email or LinkedIn Profile link here]
+- 📫 **How to reach me:** waleedkhan90542@gmail.com
 - ⚡ **Fun fact:** When I'm not writing code or building responsive UIs, I'm likely solving advanced linear algebra problems or mathematical induction proofs!
 
 ### 💻 Tech Stack:
